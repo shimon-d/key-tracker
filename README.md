@@ -6,5 +6,5 @@ Although being a simple app this piece of software uses one of the techniques of
 with other programs that are working alongside, paralleled or dependent on it. Even a fraction of a second being spared/waited can alleviate processing for consuming less processor time.
 
 ### Info
-Python3.10
+Python3.10\
 pygame
